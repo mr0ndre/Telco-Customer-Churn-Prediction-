@@ -28,6 +28,13 @@ Dataset is retrieved from kaggle: [yeanzc/telco-customer-churn-ibm-dataset](http
 For more details: 
 - https://community.ibm.com/community/user/blogs/steven-macko/2019/07/11/telco-customer-churn-1113
 
+### Data Description
+The dataset contains 7,043 observations with 33 variables describing customer demographics, service usage, contract information, billing details, and churn-related metrics.
+
+The target variable indicates whether a customer churned during the quarter. Additional variables include customer tenure, contract type, monthly charges, service subscriptions, and customer value metrics such as churn score and customer lifetime value (CLTV).
+
+Feature definitions and dataset documentation are based on the original description provided by the dataset author on Kaggle.
+
 ============================================================= TO BE CONTINUED ==============================================================
 
 - Brief description of features
