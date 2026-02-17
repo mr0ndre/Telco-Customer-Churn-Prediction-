@@ -44,15 +44,15 @@ A separate preprocessed dataset is created for modeling purposes, where certain 
 
 As a result, some variables used in EDA are intentionally excluded from the modeling stage.
 
-============================================================= TO BE CONTINUED ==============================================================
-
-
 
 
 ## 6. Key Insights
 #### *1. Primary Churn Reasons vs CLTV*
 <img width="1184" height="784" alt="image" src="https://github.com/user-attachments/assets/db35d177-ca9f-45e0-82dc-3dfcacaec3d0" />
+
+
 **Overall insights:**
+
 It appears that the primary factor of customer churning is due to the competitor pressure, they offered better services, more attractive deals, faster speeds, or greater data allowances.
 
 In addition, service quality and customer experience are significant contributors to churn. A noticeable number of customers cited poor support attitudes, lack of professionalism, and unsatisfactory service interactions as reasons for leaving.
@@ -67,6 +67,7 @@ This suggests that high-value customers care more about service quality and expe
 
 #### *2. Service used by Churn Customers*
 <img width="684" height="1184" alt="image" src="https://github.com/user-attachments/assets/3dae3abd-4607-40a6-bac4-5e5180a2df86" />
+
 **Overall insights**
 
 **1. Phone Service:** For those who churned, the most used service is Phone Service. This confirms the findings from previous part, that competitor offered better deals, such as more data for a given plan or in general better offer which attracts them to move.
@@ -80,6 +81,7 @@ This means that if internet service quality is low, it would also impact Streami
 
 #### *3. Tenure Months*
 <img width="851" height="1003" alt="image" src="https://github.com/user-attachments/assets/37f0dc61-80de-4e73-873c-9cf5cd147ff4" />
+
 **1. New Customers (< 6 months)**
 
 Finding: Highest churn concentration in first 6 months
@@ -99,12 +101,15 @@ Suggestion: Implement loyalty rewards, conduct feedback sessions, and prioritize
 ### Key actions to take: 
 
 **1. Upgrade Core Service Performance**
+
 Enhance overall network performance, particularly internet speed and reliability. Improving internet quality would also positively impact related services such as streaming TV and streaming movies.
 
 **2. Strengthen Competitive Offerings**
+
 Introduce more attractive data plans, reduce charges for excess data usage, and periodically benchmark pricing and features against key competitors to remain competitive in the market.
 
 **3. Improve Customer Service Quality**
+
 Provide structured training programs for customer support staff to improve professionalism, communication skills, and service responsiveness. Reducing complaints related to staff attitude will directly improve customer satisfaction and retention.
 
 **4. Close Monitor Customers with Churn Score Above 60**
@@ -120,6 +125,7 @@ Therefore customers with churn score above 60 requires immediate monitoring and 
 The majority of retained customers have a tenure exceeding 36 months, indicating that customer loyalty strengthens over time. These long-standing customers represent the company's most valuable asset.
 
 To maintain and strengthen relationships with these loyal customers, we recommend:
+
 **1. Strengthen Customer Relationships:** Develop personalized engagement strategies that make customers feel valued and understood, moving beyond transactional interactions to build emotional connections with the brand.
 
 **2. Implement a Loyalty Rewards Program:** Introduce tiered rewards that acknowledge and appreciate long-term commitment, offering exclusive benefits, discounts, or early access to new features/services.
