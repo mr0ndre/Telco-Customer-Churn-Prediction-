@@ -47,29 +47,21 @@ As a result, some variables used in EDA are intentionally excluded from the mode
 ============================================================= TO BE CONTINUED ==============================================================
 
 
-## 4. Exploratory Data Analysis (EDA)
-Summarise key findings from the data exploration.
-- Churn distribution
-- Important customer segments
-- Notable trends and patterns
+## 6. Key Insights
 
-## 5. Key Insights
-Highlight the most important insights discovered during analysis.
-- Insight 1
-- Insight 2
-- Insight 3
+#### 1. 
 
-## 6. Recommendations
+## 7. Recommendations
 Provide actionable, business-focused suggestions based on insights.
 - Retention strategy 1
 - Retention strategy 2
 - Retention strategy 3
 
-## 7. Dashboard
+## 8. Dashboard
 Link to your Streamlit dashboard and briefly explain what it shows.
 ```md
 📊 [View Interactive Dashboard](your-streamlit-link)
 ```
 
-## 8. Models 
+## 9. Models 
 Models to forecast if a customer is likely to churn or not
