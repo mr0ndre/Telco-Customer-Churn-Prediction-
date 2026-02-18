@@ -1,14 +1,13 @@
 
 
-# Customer Churn Analysis (PLANNING STAGE)
+# Customer Churn Analysis (CONCSTRUCTION STAGE)
 
-## 1. Project Overview
-
+## 1.📋 Project Overview 
 
 This project aim to understand why customers choose to discontinue with the service. By using Exploratory Data Analysis (EDA) technique, key factors and patterns that influence churn are identified. Machine Learning models are then implemented to determine whether customers is at "high risk", "moderate risk, "low risk" of churning. 
 
          
-## 2. Business Objective
+## 2. 🎯 Business Objective
 
 Customer Churn: 
 
@@ -18,7 +17,7 @@ One of the major concern with businesses is when customers discontinues to use t
 The primary objective of this project is to reduce customer churn by forecasting customers with high risk of leaving, using a machine learning model, and providing actionable recommendations to improve retention.
 
 
-## 3. Dataset
+## 3. 📊 Dataset
 
 A fictional telco company that provided home phone and Internet services to 7043 customers in California in Q3, produced by IBM. 
 
@@ -46,21 +45,10 @@ As a result, some variables used in EDA are intentionally excluded from the mode
 
 
 
-## 6. Key Insights
-<<<<<<< HEAD
+## 4. 💡 Key Insights
 
-#### 1. 
-
-## 7. Recommendations
-Provide actionable, business-focused suggestions based on insights.
-- Retention strategy 1
-- Retention strategy 2
-- Retention strategy 3
-
-=======
 #### *1. Primary Churn Reasons vs CLTV*
 <img width="1184" height="784" alt="image" src="https://github.com/user-attachments/assets/db35d177-ca9f-45e0-82dc-3dfcacaec3d0" />
-
 
 **Overall insights:**
 
@@ -106,7 +94,7 @@ Finding: Churn among long-term customers indicates potential service quality iss
 Suggestion: Implement loyalty rewards, conduct feedback sessions, and prioritize service improvements to retain valuable long-term relationships
 
 
-## 7. Recommendations
+## 5. ✨💡🌟 Recommendations
 
 
 ### Key actions to take: 
@@ -146,15 +134,14 @@ To maintain and strengthen relationships with these loyal customers, we recommen
 **4. Create a "Voice of Customer" Program:** Formally integrate customer feedback into product development and service enhancement cycles, showing customers that their insights drive meaningful change
 
 >>>>>>> c3590924c2513388173f524591e86e89ede004f7
-## 8. Dashboard
+## 6. 🎛️ Dashboard
 Link to your Streamlit dashboard and briefly explain what it shows.
 ```md
 📊 [View Interactive Dashboard](your-streamlit-link)
 ```
 
-## 9. Models 
-<<<<<<< HEAD
+## 7. 🤖 Models 
+
 Models to forecast if a customer is likely to churn or not
-=======
+
 Models to forecast if a customer is likely to churn or not
->>>>>>> c3590924c2513388173f524591e86e89ede004f7
