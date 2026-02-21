@@ -4,7 +4,7 @@
 
 ## 1.📋 Project Overview 
 
-This project aim to understand why customers choose to discontinue with the service. By using Exploratory Data Analysis (EDA) technique, key factors and patterns that influence churn are identified. Machine Learning models are then implemented to determine whether customers is at "high risk", "moderate risk, "low risk" of churning. 
+This project aim to understand why customers choose to discontinue with the service. By using Exploratory Data Analysis (EDA) technique, key factors and patterns that influence churn are identified. Machine Learning models are then implemented to determine whether customers will churn or not churn.  
 
          
 ## 2. 🎯 Business Objective
@@ -133,7 +133,6 @@ To maintain and strengthen relationships with these loyal customers, we recommen
 
 **4. Create a "Voice of Customer" Program:** Formally integrate customer feedback into product development and service enhancement cycles, showing customers that their insights drive meaningful change
 
->>>>>>> c3590924c2513388173f524591e86e89ede004f7
 ## 6. 🎛️ Dashboard
 Link to your Streamlit dashboard and briefly explain what it shows.
 ```md
@@ -142,6 +141,24 @@ Link to your Streamlit dashboard and briefly explain what it shows.
 
 ## 7. 🤖 Models 
 
-Models to forecast if a customer is likely to churn or not
+Main Goal: To classify whether a customer will churn or not. 
 
-Models to forecast if a customer is likely to churn or not
+0 = not churn 
+1 = churn 
+
+**Baseline Model**: *Logistic Regression*
+
+**RandomForest Classifier:**
+
+**Decision Tree:** 
+
+**XGBoost:**
+
+**Neural Networks**: *Feed Foward Neural Network*
+
+### Model Explainability
+
+**SHapley Additive exPlanations:**
+
+- Applied to the best performed model
+
