@@ -142,8 +142,14 @@ Link to your Streamlit dashboard and briefly explain what it shows.
 ## 7. 🤖 Models 
 
 Main Goal: To classify whether a customer will churn or not. 
+Metrics: 
+         - Recall: Aim to maximize 
+         - FPR: Would rather have this higher compared to FNR 
+         - FNT: Minimise 
+         - Why: Because we rather want to predict customers to be likely churning than not churning, so there is less potentials to lose a customer(We can start taking actions immediately to prevent churning)
 
 0 = not churn 
+
 1 = churn 
 
 **Baseline Model**: *Logistic Regression*
