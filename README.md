@@ -1,6 +1,6 @@
 
 
-# Customer Churn Analysis (CONCSTRUCTION STAGE)
+# Customer Churn Analysis Report 
 
 ## 1.📋 Project Overview 
 
@@ -160,3 +160,7 @@ The following models are implemented:
 - **XGBoost**
 
 
+<img width="462" height="215" alt="image" src="https://github.com/user-attachments/assets/ab441796-3b04-40d3-a1ce-4d96db08bc3f" />
+
+
+The results demonstrate that the baseline Logistic Regression model achieved the strongest overall performance compared to the other evaluated models. Therefore, Logistic Regression was selected as the final model for predicting the likelihood of customer churn.
