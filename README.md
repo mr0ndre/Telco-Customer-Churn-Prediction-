@@ -137,29 +137,26 @@ To maintain and strengthen relationships with these loyal customers, we recommen
 ## 6. 🤖 Models 
 
 Main Goal: To classify whether a customer will churn or not. 
+
 Metrics: 
-         - Recall: Aim to maximize 
+
+         - Recall: We Aim to maximize  
+         
          - FPR: Would rather have this higher compared to FNR 
+         
          - FNT: Minimise 
-         - Why: Because we rather want to predict customers to be likely churning than not churning, so there is less potentials to lose a customer(We can start taking actions immediately to prevent churning)
+         
+         - Reasons: We would prefer to predict customers to be likely churning than not churning, so there is less potentials to lose a customer as the business can start taking actions immediately to prevent churning. 
 
-0 = not churn 
 
-1 = churn 
+The following models are implemented: 
 
-**Baseline Model**: *Logistic Regression*
+- **Baseline Model**: *Logistic Regression*
 
-**RandomForest Classifier:**
+- **RandomForest Classifier**
 
-**Decision Tree:** 
+- **Decision Tree** 
 
-**XGBoost:**
+- **XGBoost**
 
-**Neural Networks**: *Feed Foward Neural Network*
-
-### Model Explainability
-
-**SHapley Additive exPlanations:**
-
-- Applied to the best performed model
 
