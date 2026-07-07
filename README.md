@@ -133,13 +133,8 @@ To maintain and strengthen relationships with these loyal customers, we recommen
 
 **4. Create a "Voice of Customer" Program:** Formally integrate customer feedback into product development and service enhancement cycles, showing customers that their insights drive meaningful change
 
-## 6. 🎛️ Dashboard
-Link to your Streamlit dashboard and briefly explain what it shows.
-```md
-📊 [View Interactive Dashboard](your-streamlit-link)
-```
 
-## 7. 🤖 Models 
+## 6. 🤖 Models 
 
 Main Goal: To classify whether a customer will churn or not. 
 Metrics: 
